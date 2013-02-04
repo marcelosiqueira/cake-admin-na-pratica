@@ -1,0 +1,1 @@
+<div class="alert-message block-message <?php echo $class ?>"><?php echo $this->Html->tag('p', $message) ?></div>

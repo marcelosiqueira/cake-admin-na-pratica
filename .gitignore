@@ -1,0 +1,9 @@
+# Ignorar arquivos temporarios do Gedit
+*~*
+# Ignorar arquivos Sublime Text 2
+*.sublime*
+# Ignorar arquivos de configurações
+# /Config/core.php
+# /Config/database.php
+# Ignorar arquivos temporários do CakePHP
+/tmp

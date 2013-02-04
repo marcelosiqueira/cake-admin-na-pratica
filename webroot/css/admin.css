@@ -1,0 +1,29 @@
+html,
+body {
+	height: 100%;
+}
+
+#wrap{
+	height: auto !important;
+	min-height: 100%;
+        /* Negative indent footer by it's height */
+        margin: 0 auto -60px;
+}
+#push,
+footer {
+	height: 60px;
+}
+
+footer{
+	background-color:#000;
+	color: #fff;
+}
+
+footer .row{
+	padding: 20px !important;
+}
+
+
+.error-message{
+	color: #B94A48;
+}

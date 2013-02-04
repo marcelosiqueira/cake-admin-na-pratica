@@ -1,0 +1,3 @@
+[submodule "Plugin/Upload"]
+	path = Plugin/Upload
+	url = git://github.com/josegonzalez/upload.git
