@@ -24,7 +24,7 @@ Eu utililei recursos basicos e deixei bem comentado o codigo.
 
 ## Usei:
 * [CakePHP v2.2](https://github.com/cakephp/cakephp) framework de desenvolvimento php.
-* [Upload](http://github.com/radig/upload) plugin de upload.
+* [Upload](http://github.com/josegonzalez/upload) plugin de upload.
 * [Twitter Bootstrap v2.1.1](https://github.com/twitter/bootstrap) framework de layout.
 * [Font Awesome v3.0](http://fortawesome.github.com/Font-Awesome/) font para icones.
 * [CKEditor v4](http://ckeditor.com/) editor WYSIWYG.
