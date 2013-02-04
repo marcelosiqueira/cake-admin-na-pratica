@@ -12,13 +12,13 @@ Cadastrar um iPhone, que estará na categoria Telefonia > Celular > Smartphone. 
 
 Obs 1: Não poderá ser selecionada 2 categorias onde uma é filha de outra. 
 
-Obs 2: No formulário de inserção de produto, ao selecionar uma categoria, deverá filtrar as categorias filhas 
-para então selecioná-las.
+Obs 2: No formulário de inserção de produto, ao selecionar uma categoria, deverá filtrar as categorias filhas para então selecioná-las.
 
-Obs 3: Deve ser feito utilizando os conceitos de OO e obrigatoriamente deve ser possível cadastrar fotos e data 
-de publicação.
+Obs 3: Deve ser feito utilizando os conceitos de OO e obrigatoriamente deve ser possível cadastrar fotos e data de publicação.
 
 Obs 4: O layout terá um peso pequeno na avaliação, mas deve estar organizado.
+
+
 
 Eu utililei recursos basicos e deixei bem comentado o codigo.
 
@@ -30,6 +30,3 @@ Eu utililei recursos basicos e deixei bem comentado o codigo.
 * [CKEditor v4](http://ckeditor.com/) editor WYSIWYG.
 
 PS. Fui desqualicado da entrevista pois não conseguirar fazer rodar! (rs)
-
-
-
