@@ -29,4 +29,4 @@ Eu utililei recursos basicos e deixei bem comentado o codigo.
 * [Font Awesome v3.0](http://fortawesome.github.com/Font-Awesome/) font para icones.
 * [CKEditor v4](http://ckeditor.com/) editor WYSIWYG.
 
-PS. Fui desqualicado da entrevista pois não conseguirar fazer rodar! (rs)
+PS. Fui desqualicado da entrevista pois não conseguiram fazer rodar! (rs)
