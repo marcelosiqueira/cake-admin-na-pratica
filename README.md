@@ -1,7 +1,7 @@
 cake-admin-na-pratica
 ======================
 
-## Esse teste de admin, eu fiz para uma entrevista de enprego, onde a empresa solicitou criar:
+## Esse teste de admin, eu fiz para uma entrevista de emprego, onde a empresa solicitou criar:
 
 ## Administração de um e-commerce
 Cadastro de produtos e categorias, onde cada produto deve pertencer a pelo menos uma categoria.
@@ -20,7 +20,7 @@ Obs 4: O layout terá um peso pequeno na avaliação, mas deve estar organizado.
 
 
 
-Eu utililei recursos basicos e deixei bem comentado o codigo.
+Eu utilizei recursos básicos e deixei bem comentado o código.
 
 ## Usei:
 * [CakePHP v2.2](https://github.com/cakephp/cakephp) framework de desenvolvimento php.
@@ -29,4 +29,4 @@ Eu utililei recursos basicos e deixei bem comentado o codigo.
 * [Font Awesome v3.0](http://fortawesome.github.com/Font-Awesome/) font para icones.
 * [CKEditor v4](http://ckeditor.com/) editor WYSIWYG.
 
-PS. Fui desqualicado da entrevista pois não conseguiram fazer rodar! (rs)
+PS. Fui desqualificado da entrevista pois não conseguiram fazer rodar! (rs)
